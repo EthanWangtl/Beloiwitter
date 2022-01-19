@@ -1,0 +1,8 @@
+D:\News\Project\Beloit\DAL\bin\x86\Debug\DAL.dll
+D:\News\Project\Beloit\DAL\bin\x86\Debug\DAL.pdb
+D:\News\Project\Beloit\DAL\bin\x86\Debug\Model.dll
+D:\News\Project\Beloit\DAL\bin\x86\Debug\Model.pdb
+D:\News\Project\Beloit\DAL\obj\x86\Debug\DAL.csproj.AssemblyReference.cache
+D:\News\Project\Beloit\DAL\obj\x86\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\News\Project\Beloit\DAL\obj\x86\Debug\DAL.dll
+D:\News\Project\Beloit\DAL\obj\x86\Debug\DAL.pdb
